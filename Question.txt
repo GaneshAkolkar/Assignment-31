@@ -1,0 +1,42 @@
+1. Add a "tooltip" to the paragraph below with the text "Python Web Development in
+Hindi".
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Page</title>
+</head>
+<body>
+<p>Python Web Development in Hindi</p>
+</body>
+</html>
+
+2. In the form below, add an input field with the type "button" and the value "OK".
+
+3. Inside a form tag, add two radio buttons, both with the name
+“programming_language”.
+
+4. Inside a form tag, add an empty drop down list with the name “food_menu”.
+
+5. Inside a form tag, add a text area with the name "note".
+
+6. Inside a form tag, add a submit button with the value "Submit Form".
+
+7. Disable the input field below.
+
+Untitled 2
+<form action="/register">
+<input type="text">
+</form>
+
+8. Restrict the maximum number of characters allowed in the input field to 10.
+Note: You should not include any Javascript
+
+<form action="/register">
+<input type="text">
+</form>
+
+9. Inside form tag, add an input field that accepts only .png files.
+
+10. Add a table row with two table headers. The two table headers should have the
+value "Index" and "Topic".
